@@ -1,0 +1,171 @@
+/*
+	Containers-IE6
+	A plugin for the 960 Grid System.
+	Compatible with IE6
+*/
+
+.container_12 .grid_1_container,
+.container_12 .grid_2_container,
+.container_12 .grid_3_container,
+.container_12 .grid_4_container,
+.container_12 .grid_5_container,
+.container_12 .grid_6_container,
+.container_12 .grid_7_container,
+.container_12 .grid_8_container,
+.container_12 .grid_9_container,
+.container_12 .grid_10_container,
+.container_12 .grid_11_container,
+.container_12 .grid_12_container,
+.container_16 .grid_1_container,
+.container_16 .grid_2_container,
+.container_16 .grid_3_container,
+.container_16 .grid_4_container,
+.container_16 .grid_5_container,
+.container_16 .grid_6_container,
+.container_16 .grid_7_container,
+.container_16 .grid_8_container,
+.container_16 .grid_9_container,
+.container_16 .grid_10_container,
+.container_16 .grid_11_container,
+.container_16 .grid_12_container,
+.container_16 .grid_13_container,
+.container_16 .grid_14_container,
+.container_16 .grid_15_container,
+.container_16 .grid_16_container
+{
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+/* =Grid >> Global
+--------------------------------------------------------------------------------*/
+.container_12 .grid_3_container,
+.container_16 .grid_4_container
+{
+	width: 240px;
+}
+
+.container_12 .grid_6_container,
+.container_16 .grid_8_container
+{
+	width: 480px;
+}
+
+.container_12 .grid_9_container,
+.container_16 .grid_12_container
+{
+	width: 720px;
+}
+
+.container_12 .grid_12_container,
+.container_16 .grid_16_container
+{
+	width: 960px;
+}
+
+/* =Grid >> 12 Columns
+--------------------------------------------------------------------------------*/
+
+.container_12 .grid_1_container
+{
+	width: 80px;
+}
+
+.container_12 .grid_2_container
+{
+	width: 160px;
+}
+
+.container_12 .grid_4_container
+{
+	width: 320px;
+}
+
+.container_12 .grid_5_container
+{
+	width: 400px;
+}
+
+.container_12 .grid_7_container
+{
+	width: 560px;
+}
+
+.container_12 .grid_8_container
+{
+	width: 640px;
+}
+
+.container_12 .grid_10_container
+{
+	width: 800px;
+}
+
+.container_12 .grid_11_container
+{
+	width: 880px;
+}
+
+/* =Grid >> 16 Columns
+--------------------------------------------------------------------------------*/
+
+.container_16 .grid_1_container
+{
+	width: 60px;
+}
+
+.container_16 .grid_2_container
+{
+	width: 120px;
+}
+
+.container_16 .grid_3_container
+{
+	width: 180px;
+}
+
+.container_16 .grid_5_container
+{
+	width: 300px;
+}
+
+.container_16 .grid_6_container
+{
+	width: 360px;
+}
+
+.container_16 .grid_7_container
+{
+	width: 420px;
+}
+
+.container_16 .grid_9_container
+{
+	width: 540px;
+}
+
+.container_16 .grid_10_container
+{
+	width: 600px;
+}
+
+.container_16 .grid_11_container
+{
+	width: 660px;
+}
+
+.container_16 .grid_13_container
+{
+	width: 780px;
+}
+
+.container_16 .grid_14_container
+{
+	width: 840px;
+}
+
+.container_16 .grid_15_container
+{
+	width: 900px;
+}

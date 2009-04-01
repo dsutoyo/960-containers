@@ -1,0 +1,143 @@
+/*
+	Containers
+	A plugin for the 960 Grid System.
+	Not compatible with IE6.
+	(for IE6 compatible version please use containers-ie6.css)
+*/
+
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+/* =Grid >> Global
+--------------------------------------------------------------------------------*/
+.container_12 .grid_3.container,
+.container_16 .grid_4.container
+{
+	width: 240px;
+}
+
+.container_12 .grid_6.container,
+.container_16 .grid_8.container
+{
+	width: 480px;
+}
+
+.container_12 .grid_9.container,
+.container_16 .grid_12.container
+{
+	width: 720px;
+}
+
+.container_12 .grid_12.container,
+.container_16 .grid_16.container
+{
+	width: 960px;
+}
+
+/* =Grid >> 12 Columns
+--------------------------------------------------------------------------------*/
+
+.container_12 .grid_1.container
+{
+	width: 80px;
+}
+
+.container_12 .grid_2.container
+{
+	width: 160px;
+}
+
+.container_12 .grid_4.container
+{
+	width: 320px;
+}
+
+.container_12 .grid_5.container
+{
+	width: 400px;
+}
+
+.container_12 .grid_7.container
+{
+	width: 560px;
+}
+
+.container_12 .grid_8.container
+{
+	width: 640px;
+}
+
+.container_12 .grid_10.container
+{
+	width: 800px;
+}
+
+.container_12 .grid_11.container
+{
+	width: 880px;
+}
+
+/* =Grid >> 16 Columns
+--------------------------------------------------------------------------------*/
+
+.container_16 .grid_1.container
+{
+	width: 60px;
+}
+
+.container_16 .grid_2.container
+{
+	width: 120px;
+}
+
+.container_16 .grid_3.container
+{
+	width: 180px;
+}
+
+.container_16 .grid_5.container
+{
+	width: 300px;
+}
+
+.container_16 .grid_6.container
+{
+	width: 360px;
+}
+
+.container_16 .grid_7.container
+{
+	width: 420px;
+}
+
+.container_16 .grid_9.container
+{
+	width: 540px;
+}
+
+.container_16 .grid_10.container
+{
+	width: 600px;
+}
+
+.container_16 .grid_11.container
+{
+	width: 660px;
+}
+
+.container_16 .grid_13.container
+{
+	width: 780px;
+}
+
+.container_16 .grid_14.container
+{
+	width: 840px;
+}
+
+.container_16 .grid_15.container
+{
+	width: 900px;
+}
