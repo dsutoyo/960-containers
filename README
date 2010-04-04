@@ -12,7 +12,7 @@ units -- specifically in instances where the developer is unable to add the
 "alpha" and "omega" classes. The addition of a class called "container" to the
 parent class helps make grid units fit. For more information, please see:
 
-
+http://www.asimplecell.com/articles/containers-a-960-grid-system-plugin
 
 Containers comes in two flavors: default and IE6-compatible. To use, include
 the appropriate CSS file in the <head> of the page, *after* the link for
